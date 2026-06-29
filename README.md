@@ -21,6 +21,4 @@ Power BI	                                  Dashboard Development
 Jupyter Notebook	                          Development Environment
 
 **Project Workflow**
-Customer Dataset , Data Cleaning (Python) , Exploratory Data Analysis , PostgreSQL Database , SQL Analysis & Feature Engineering  
-       ▼ 
-Business Intelligence Dashboard (Power BI)
+Customer Dataset , Data Cleaning (Python) , Exploratory Data Analysis , PostgreSQL Database , SQL Analysis & Feature Engineering  , Business Intelligence Dashboard (Power BI)
